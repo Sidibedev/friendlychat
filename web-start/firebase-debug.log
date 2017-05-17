@@ -1,0 +1,26 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\mouhamed aly sidibe\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase login --reauth
+[debug] CLI Version:  3.6.0
+[debug] Platform:     win32
+[debug] Node Version: v4.6.0
+[debug] Time:         Wed Apr 19 2017 12:00:29 GMT-0100 (Cabo Verde Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=131539825&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\mouhamed aly sidibe\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase login --reauth
+[debug] CLI Version:  3.6.0
+[debug] Platform:     win32
+[debug] Node Version: v4.6.0
+[debug] Time:         Wed Apr 19 2017 12:06:22 GMT-0100 (Cabo Verde Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=859750721&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
